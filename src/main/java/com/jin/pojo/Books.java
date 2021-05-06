@@ -13,5 +13,5 @@ public class Books implements Serializable {
     private int bookID;
     private String bookName;
     private int bookCounts;
-    private int detail;
+    private String detail;
 }
